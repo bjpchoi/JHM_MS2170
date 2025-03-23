@@ -1,1 +1,1 @@
-Supporting code for revision of MS2170 (under review at the Journal of Humanistic Mathematics).
+Supporting code for revision of "Il Segreto Divino: Unraveling a 700-year-old mathematical puzzle hidden within the Inferno" (MS2170) under review (post-revision) at the Journal of Humanistic Mathematics.
