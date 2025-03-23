@@ -1,1 +1,1 @@
-This repository contains code for the revision of "Il Segreto Divino: Unraveling a 700-year-old mathematical puzzle hidden within the Inferno" (MS2170) under review (post-revision) at the Journal of Humanistic Mathematics.
+This repository contains code for plots featured in the revision of "Il Segreto Divino: Unraveling a 700-year-old mathematical puzzle hidden within the Inferno" (MS2170) under review (post-revision) at the Journal of Humanistic Mathematics.
